@@ -1,6 +1,6 @@
 # California Housing Data Analysis and House Value Prediction using Linear Regression
 
-## Overview
+## Overview:
 This Python project aims to analyze California housing data and predict house values using linear regression. The dataset used for this project is the California housing dataset, which contains various features such as median income, housing median age, average rooms, etc., for different districts in California. The goal is to build a linear regression model that can accurately predict the median house value for a given set of features.
 
 ## Dataset
