@@ -14,7 +14,7 @@ The dataset used for this project is the California housing dataset. It can be f
 - Latitude
 - Longitude
 
-## Requirements
+## Requirements:
 - Python 3.x
 - Pandas
 - NumPy
