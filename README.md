@@ -22,7 +22,7 @@ The dataset used for this project is the California housing dataset. It can be f
 - Matplotlib
 - Jupyter Notebook (optional, for exploring the data)
 
-## Installation
+## Installation:
 1. Clone this repository to your local machine using:
    ```
    git clone https://github.com/PranjaliNaik11/California_House_Value_Prediction_Linear_Regression.git
